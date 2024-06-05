@@ -2,6 +2,8 @@
 
 *.bat
 *.crt
+*.debug
+*.gz
 *.html
 *.js
 *.json
